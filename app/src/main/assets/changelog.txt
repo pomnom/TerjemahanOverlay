@@ -1,0 +1,4 @@
+# Versi pertama
+- Menangkap suara dari HP (video, game, dll.) dan menampilkan terjemahan Jepang → Indonesia sebagai subtitle melayang.
+- Offline: pengenal suara Vosk + terjemahan ML Kit, model diunduh sekali di awal.
+- Atur ukuran huruf, kegelapan latar, teks Jepang, dan mode tembus sentuhan.

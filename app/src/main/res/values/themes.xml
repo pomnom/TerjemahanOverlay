@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#1E5A8C</color>
+    <color name="ic_launcher_background">#1E3A5F</color>
+
+    <style name="Theme.Terjemah" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand</item>
+    </style>
+</resources>
